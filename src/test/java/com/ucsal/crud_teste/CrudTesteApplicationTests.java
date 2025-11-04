@@ -1,0 +1,13 @@
+package com.ucsal.crud_teste;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CrudTesteApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
